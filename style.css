@@ -1,0 +1,37 @@
+#imgDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#imgg{
+    border: solid lightgreen;
+    border-radius: 5%;
+    height: 360px;
+}
+#rfimgdiv{
+margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#rfimg{
+    background-color: lightblue;
+    border-color: solid skyblue;
+}
+#search_div{
+    display: flex;
+    text-align: center;
+    margin-top: 10px;
+    justify-content: center;
+}
+#next{
+    margin-left: 5px;
+}
+#Search{
+    margin-left: 5px;
+}
+#input{
+    margin-left: 5px;
+}
